@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Table
+//  lesson_4
 //
-//  Created by Егор Уваров on 20.03.2021.
+//  Created by Егор Уваров on 13.03.2021.
 //
 
 import UIKit
